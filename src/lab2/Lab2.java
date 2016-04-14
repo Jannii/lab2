@@ -17,7 +17,7 @@ public class Lab2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hej, vi sitter nu och presenterar!");
-        System.out.println("testar att vilja skriva lite somm man kan om man vill");
+        System.out.println("blahaaaaaaaaaaa!!!! man kan om man vill");
     }
     
 }
